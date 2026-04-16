@@ -1,4 +1,2 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnv-img.perekrestok.ru&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@wl-ru-vk-01.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnv-img.perekrestok.ru&fp=chrome&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://51fc8610-ae9d-4ace-ac3d-c5d2f6756350@84.201.134.34:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=RJppv_rQdHeKsuadtv3D7M_yGXesdimv-Uyt2AvJwjk&sid=7b2e01b4a170e3cf&sni=console.yandex.cloud&path=&host=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://b28ed302-6a3c-45ee-a671-cd29b47f08b2@51.250.84.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ew5a5rNW0ZLY9s4xnI3iZHbNLw2I21bp_kwa5poLcDU&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
