@@ -1,4 +1,4 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://d6c05857-43c7-4dc7-85f5-c93a259629f0@91.219.227.253:80?encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://d2145019-520b-4d61-af91-350aac978a04@91.219.227.253:80?encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://2a56c22c-8cd9-48e0-a21b-798c09312d6c@51.250.27.109:2053?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=rR-VrakwXWCU1MZu34xI1g-LBK7Ux7kLLrj9LMYJiwQ&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://765d27af-6a6e-44e0-85f0-49c96afab7ce@84.201.174.10:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
