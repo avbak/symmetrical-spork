@@ -1,4 +1,2 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://d86b7b77-1c92-4eae-a9a6-1dd7fdc593a3@37.18.15.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&sid=f4e2b8971d5c3a9f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20CDN
 vless://d824aa93-f4cc-43ea-95bd-83cc69d49447@greeting.frost-api.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=random&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://ca65e5f6-0661-4f3d-b5aa-6dc90a3dc29e@158.160.156.30:9543?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yastatic.net&fp=chrome&pbk=oynLxVmZUC9Aw3r4BaQXH_UAuwDaQHrH10euBHWxID4&sid=c537f9a3&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
