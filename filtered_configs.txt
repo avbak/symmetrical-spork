@@ -1,4 +1,5 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
+vless://1c87e58d-5e14-450d-9f43-678e0ac4c624@91.219.227.203:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://4d36027b-cd4f-4eaf-8574-10d546789f65@217.16.31.159:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=2533f2fb6230#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://4d36027b-cd4f-4eaf-8574-10d546789f65@greeting.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=random&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=2533f2fb6230&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://ff71062a-0b03-4482-8b09-3891bc324a85@91.219.227.203:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
