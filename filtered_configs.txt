@@ -1,1 +1,4 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
+vless://1665eb23-7e2e-001f-862c-370308474846@b.ru.tree-top.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=maviks.ru&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://22f65fc9-4dee-456c-a213-2a025389af31@109.120.189.213:58652?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=VZq5atMvE_1AW0nXcn4opuxZdrSu3zy3kP7YTdGj6EQ&sid=28000000&spx=%2FGWZCgGnbVzCEVS8#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://7c396b1b-cac3-4cc5-b605-301e7b8fea5c@5.188.141.53:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&security=reality&sid=89abcdef&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
