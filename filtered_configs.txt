@@ -1,2 +1,1 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://1665eb23-7e2e-001f-862c-370308474846@b.ru.tree-top.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=maviks.ru&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
