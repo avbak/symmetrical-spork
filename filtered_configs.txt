@@ -1,3 +1,2 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@ob5.skysafe.online:2081?encryption=none&security=reality&sni=io.ozone.ru&fp=random&pbk=FARqAvdBdAqPJGFpjGVY4GWwgGl_afQ8ArDlfVs7-Ck&sid=5fb06f1e4d8f&spx=%2F&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20CDN
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@ob5.skysafe.online:2082?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=o6zlxOHBtqwPdJNatvbmEHH_Ar6SJjJQqUViymfxHmo&security=reality&sid=cead3d22ec&sni=eh1.vk.com&spx=%2F&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20CDN
+vless://7e2f5f6f-c033-4c14-a02f-b04de44e7224@212.233.98.229:8443?fp=chrome&headertype=none&pbk=fSDlnAmI1kknEMUDiytK5v0SXiurWrxO4q5XGSqSR38&security=reality&sni=masterdel.ru.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
