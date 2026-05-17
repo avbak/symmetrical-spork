@@ -1,1 +1,2 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
+vless://b4186875-7023-4f20-88b2-125a04943b2b@46.243.235.105:443?encryption=none&type=xhttp&security=reality&host=storage.yandexcloud.net&path=%2Ftopschool.backet%2Fpublic%2Fcourse_cover%2Fe20b56b6-8679-4123-89c4-963142e1bb7c.png&mode=auto&extra=null&fp=random&sni=max.ru&pbk=n5P9loBH9eKY7Lj6uVi2CMh7vZcAclKWYjbSOWG0mkU&sid=54c7c13b52eea5f3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20CDN
