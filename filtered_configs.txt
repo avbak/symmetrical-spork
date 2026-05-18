@@ -1,2 +1,1 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://267e7ff1-a96f-42bb-9e3c-a2295390774d@ydlte.fluxorvpn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
