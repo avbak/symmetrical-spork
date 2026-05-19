@@ -1,2 +1,1 @@
 # Filtered VLESS list based on igareck/vpn-configs-for-russia
-vless://e8f4797b-cdc9-4b24-9eb0-bc8f383972d8@51.250.35.121:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=avito.ru&pbk=cbYXTGB1cWP29JuV8chwF7O0ZqbyUqjmu7CUHCaHRzY#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
